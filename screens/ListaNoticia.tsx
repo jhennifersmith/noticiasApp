@@ -61,10 +61,6 @@ const Lista = ({ navigation }: any) => {
           </>
         ))}
       </View>
-      {/* <Button 
-            title="Detalhes"
-            onPress={() =>navigation.navigate('Detalhes')}
-            /> */}
     </View>
   );
 };
